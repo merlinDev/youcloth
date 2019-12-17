@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">YouCloths</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="youcloths">Youcloths</string>
+    <string name="don_t_have_an_account">don\'t have an account?</string>
+    <string name="register">register</string>
+    <string name="email">Email</string>
+</resources>
